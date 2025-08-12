@@ -1,0 +1,20 @@
+
+      .odd_num_ele {
+        background-color: pink;
+        font-family: "Verdana", "DejaVu Sans", "sans-serif";
+      }
+
+      #second_ele {
+        color: blue;
+        font-size: 36px;
+      }
+
+      #third_ele {
+        font-size: 24px;
+      }
+
+      #fourth_ele {
+        background-color: lightgreen;
+        font-size: 24px;
+        font-weight: bold;
+      }
